@@ -1,0 +1,43 @@
+body {
+  background-image: url("https://lh3.googleusercontent.com/g5u8rhhrkYewphUKKSjsVcCq9Zk0n38sOX7-FMX0UKCpndgoSxlUYug75hOzwFp2RzjXv_Ud0oo8xNh6Y_06EKjUCxFNGMv3MTuW0p8g");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.navbar ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  float: right;
+}
+
+.navbar li {
+  display: inline-block;
+}
+
+.navbar a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 17px;
+  padding: 15px 20px;
+  width: 100px;
+  font-family: "Montserrat";
+}
+
+.photo {
+   position: relative;
+   bottom: -95px;
+   left: 57px;
+}
+
+.photo2 {
+   position: relative;
+   right: -300px;
+   top: -90px;
+}
+
+p {
+  color: #fff;
+  font-family: "Montserrat";
+  font-size: 18px;
+}
